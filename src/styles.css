@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border-bottom: 1px solid lightgrey;
+  text-align: start;
+  padding: 8px;
+}
+
+select,
+span {
+  margin: 0px 20px;
+}
