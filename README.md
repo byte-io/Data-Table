@@ -1,2 +1,2 @@
 # Data-Table
-Created with CodeSandbox
+Data Table with pagination
